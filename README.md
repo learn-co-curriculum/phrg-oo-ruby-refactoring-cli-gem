@@ -68,3 +68,4 @@
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/oo-ruby-refactoring-cli-gem'>OO Ruby Refactoring CLI Gem </a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG Common Anti-Patterns in CLI Gem Application</p>
